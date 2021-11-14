@@ -1,0 +1,3 @@
+VISION_MAPPER=api_url
+MCQ_GENERATOR=api_url
+MONGO_URL=mongo_url
