@@ -118,7 +118,7 @@ class Exam extends Component {
             <Container>
               <section className="section section-shaped">
                 <div className="center-item">
-                  <h1 className="display-3 text-white">Exam Topic</h1>
+                  <h1 className="display-3 text-white">Exam</h1>
                 </div>
               </section>
               <div className="exam-area">

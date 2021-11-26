@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Card, CardBody, Modal, Button } from "reactstrap";
-import { BrowserRouter, Switch, Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import { connect } from "react-redux";
 import PropTypes from "prop-types";
 class LearnCards extends Component {
